@@ -25,3 +25,9 @@ A refreshingly depressed robot from the Hitchhiker's Guide to the Galaxy - on Tw
 
 #### [LinkedIn Article](https://www.linkedin.com/pulse/im-building-world-sized-robot-uli-hitzel)
 #### [M4rvyn3](https://twitter.com/m4rvyn3)
+
+## Face Recognition Photobooth
+
+Look into the camera and it will render dots onto your eyes, a square around your face and take a guess on your gender and age.
+
+[Docu and Code](https://github.com/u1i/realtime-face-recognition-webcam-osx)
