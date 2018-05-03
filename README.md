@@ -1,37 +1,15 @@
-## List of 'cool hacks'
-
-A growing list of geeky hacks, using APIs and data
-
 ### Instagram Analysis
 
-[Instagram Analysis](http://ig.sotong.io/)
+Using cognitive services & computer vision to go through a feed of Instagram photos: [Instagram Analysis](http://ig.sotong.io/) | [LinkedIn Article](https://www.linkedin.com/pulse/did-ai-bot-feel-hungry-after-looking-all-my-instagram-uli-hitzel)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ISS Tracker
 
-```markdown
-Syntax highlighted code block
+Tracking the International Space station over the course of one day and visualizing the flight path on a Google Earth like globe: [ISS Map](http://iss.sotong.io/) | [Code on Github](https://github.com/u1i/iss-tracker)
 
-# Header 1
-## Header 2
-### Header 3
+### LTA Buses Singapore
 
-- Bulleted
-- List
+Google Maps visualization of Singapore's busy buses: [Code & Maps](http://lta.sotong.io/) | [LinkedIn Article](https://www.linkedin.com/pulse/making-sense-open-data-apis-singapores-busy-buses-uli-hitzel)
 
-1. Numbered
-2. List
+### M4rvyn3
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/u1i/hacks.sotong.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A refreshingly depressed robot from the Hitchhiker's Guide to the Galaxy - on Twitter! [LinkedIn Article](https://www.linkedin.com/pulse/im-building-world-sized-robot-uli-hitzel)
