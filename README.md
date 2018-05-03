@@ -1,4 +1,4 @@
-![](http://www.sotong.io/sk7.png)
+![](https://raw.githubusercontent.com/u1i/hacks.sotong.io/master/sk7.pngg)
 
 ## Instagram Analysis
 
