@@ -12,4 +12,4 @@ Google Maps visualization of Singapore's busy buses: [Code & Maps](http://lta.so
 
 ### M4rvyn3
 
-A refreshingly depressed robot from the Hitchhiker's Guide to the Galaxy - on Twitter! [LinkedIn Article](https://www.linkedin.com/pulse/im-building-world-sized-robot-uli-hitzel)
+A refreshingly depressed robot from the Hitchhiker's Guide to the Galaxy - on Twitter! [LinkedIn Article](https://www.linkedin.com/pulse/im-building-world-sized-robot-uli-hitzel) | [M4rvyn3](https://twitter.com/m4rvyn3)
