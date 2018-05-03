@@ -1,3 +1,5 @@
+![]http://www.sotong.io/sk7.png
+
 ## Instagram Analysis
 
 Using cognitive services & computer vision to go through a feed of Instagram photos
@@ -30,4 +32,4 @@ A refreshingly depressed robot from the Hitchhiker's Guide to the Galaxy - on Tw
 
 Look into the camera and it will render dots onto your eyes, a square around your face and take a guess on your gender and age.
 
-[Docu and Code](https://github.com/u1i/realtime-face-recognition-webcam-osx)
+### [Docu and Code](https://github.com/u1i/realtime-face-recognition-webcam-osx)
