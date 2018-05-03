@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## List of 'cool hacks'
 
-You can use the [editor on GitHub](https://github.com/u1i/hacks.sotong.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A growing list of geeky hacks, using APIs and data
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Instagram Analysis
 
-### Markdown
+[Instagram Analysis](http://ig.sotong.io/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
