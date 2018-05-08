@@ -33,3 +33,7 @@ A refreshingly depressed robot from the Hitchhiker's Guide to the Galaxy - on Tw
 Look into the camera and it will render dots onto your eyes, a square around your face and take a guess on your gender and age.
 
 ### [Docu and Code](https://github.com/u1i/realtime-face-recognition-webcam-osx)
+
+## Short Jokes via DNS
+
+Not the most visual hack, built just to make a point. You could have an API that you query over DNS/UDP with short TTL using TXT records. Try this: `dig sj.sotong.io TXT +short` and you'll get a short joke (base64 encoded).
