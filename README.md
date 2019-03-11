@@ -32,7 +32,13 @@ A refreshingly depressed robot from the Hitchhiker's Guide to the Galaxy - on Tw
 
 Look into the camera and it will render dots onto your eyes, a square around your face and take a guess on your gender and age.
 
-### [Docu and Code](https://github.com/u1i/realtime-face-recognition-webcam-osx)
+#### [Docu and Code](https://github.com/u1i/realtime-face-recognition-webcam-osx)
+
+## Big Bang Theory Opening Sequence
+
+Computer Vision AI looking at every single frame and tells us what it sees.
+
+#### [All Frames & Results](https://github.com/u1i/bbt)
 
 ## Short Jokes via DNS
 
