@@ -40,6 +40,12 @@ Computer Vision AI looking at every single frame and tells us what it sees.
 
 #### [All Frames & Results](https://github.com/u1i/bbt)
 
+## UBER Waiting Time
+
+Using UBER's API to see how much time I spend waiting on average for my UBER to arrive.
+
+#### [Code & Output](https://github.com/u1i/uber-api-calculate-waiting-times)
+
 ## Short Jokes via DNS
 
 Not the most visual hack, built just to make a point. You could have an API that you query over DNS/UDP with short TTL using TXT records. Try this: `dig sj.sotong.io TXT +short` and you'll get a short joke (base64 encoded).
