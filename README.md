@@ -42,7 +42,7 @@ Computer Vision AI looking at every single frame and tells us what it sees.
 
 ## UBER Waiting Time
 
-Using UBER's API to see how much time I spend waiting on average for my UBER to arrive.
+Using APIs to find out how much time I usually spend waiting for my UBER to arrive.
 
 #### [Code & Output](https://github.com/u1i/uber-api-calculate-waiting-times)
 
