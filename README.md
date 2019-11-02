@@ -1,1 +1,1 @@
-[The list is now here](https://hacks.apigeek.net)
+[The list is now here](https://apigeek.net)
